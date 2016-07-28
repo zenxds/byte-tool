@@ -1,7 +1,7 @@
 {
   "name": "byte-tool",
   "version": "1.0.0",
-  "description": "",
+  "description": "byte-tool",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
